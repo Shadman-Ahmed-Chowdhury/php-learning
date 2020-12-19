@@ -85,7 +85,7 @@ include_once 'process.php';
 
         <!-- Show Message -->
         <div class="text-success text-center d-none" id="msg_div">
-          <h4 id="res_message">Insert has been successfully.</h4>
+          <h4 id="res_message">Data has been successfully.</h4>
         </div>
 
         <!-- btn insert data -->
